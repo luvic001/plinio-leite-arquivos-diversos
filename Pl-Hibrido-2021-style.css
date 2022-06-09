@@ -1,0 +1,27 @@
+.item-plh {
+    background-color: #f5f5f5;
+    padding: 1.3rem 2rem;
+    margin-bottom: 2rem;
+    border: 1px solid #aaa;
+  }
+  
+  .item-plh .item-plh-link-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+  }
+  
+  .item-plh .item-plh-head { 
+    padding-bottom: 10px;
+  }
+  
+  .item-plh .item-plh-head h4 {
+    font-size: 22px;
+    margin-bottom: 0 !important;
+    color: #444;
+  }
+  
+  .item-plh .item-plh-content h3 { 
+    font-size: 18px;
+    color: #444;
+  }
